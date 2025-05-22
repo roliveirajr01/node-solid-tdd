@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "jest",
-    "prepare": "echo 'Husky v9+ initialized manually.'"
+    "prepare": "echo 'Husky v9+ initialized manually.'",
+    "test:staged": "test"
   },
   "keywords": [],
   "author": "",
