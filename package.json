@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "jest",
+    "test": "jest --watch",
     "prepare": "echo 'Husky v9+ initialized manually.'",
     "test:staged": "test"
   },
