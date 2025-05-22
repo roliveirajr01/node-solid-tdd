@@ -6,7 +6,7 @@
   "scripts": {
     "test": "jest --watch",
     "prepare": "echo 'Husky v9+ initialized manually.'",
-    "test:staged": "test"
+    "test:staged": "jest --findRelatedTests"
   },
   "keywords": [],
   "author": "",
